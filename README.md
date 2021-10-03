@@ -7,6 +7,7 @@
 </span>
 
 # Implementando testes automatizados usando Cypress em uma aplicação Angular
+# Teacher - Celso Henrique - Engineering Lead
   
 - Desenvolvendo testes de focar no input
 - Desenvolvendo testes de escrever no input
